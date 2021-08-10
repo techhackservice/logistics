@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="autofac" Version="4.9.4" />
+    <PackageReference Include="MongoDB.Driver" Version="2.10.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Domain\Report\" />
+    <Folder Include="Dto\GatewayResponses\Repositories\" />
+    <Folder Include="Shared\" />
+    <Folder Include="Specifications\" />
+  </ItemGroup>
+
+</Project>

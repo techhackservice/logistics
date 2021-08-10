@@ -1,0 +1,15 @@
+/Tests/Web.Api.Core.UnitTests/bin
+/Tests/Web.Api.Core.UnitTests/obj
+/Tests/Web.Api.Infrastructure.UnitTests/bin
+/Tests/Web.Api.Infrastructure.UnitTests/obj
+/Tests/Web.Api.IntegrationTests/bin
+/Tests/Web.Api.IntegrationTests/obj
+/Tests/Web.Api.UnitTests/obj
+/Web.Api/bin
+/Web.Api/obj
+/Web.Api.Core/bin
+/Web.Api.Core/obj
+/Web.Api.Infrastructure/bin
+/Web.Api.Infrastructure/obj
+/Tests/Web.Api.UnitTests/bin
+/.vscode/solution-explorer
